@@ -1,0 +1,21 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+@import url('https://fonts.googleapis.com/css?family=Happy+Monkey|Roboto');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #cf649a;
+}
+
+h1 {
+  font-size: 48px;
+  font-family: 'Happy Monkey', cursive;
+}
+
+a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+}
+
